@@ -8,5 +8,8 @@
     "skipLibCheck": true,
     "types": []
   },
-  "files": ["popclip.d.ts", "ClaudePrompts.popclipext/Config.ts"]
+  "files": [
+    "popclip.d.ts",
+    "AIModifierPaste.popclipext/Config.ts"
+  ]
 }

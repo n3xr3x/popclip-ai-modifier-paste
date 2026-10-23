@@ -1,9 +1,9 @@
 {
-  "name": "popclip-claude",
+  "name": "popclip-ai-modifier-paste",
   "private": true,
   "scripts": {
     "check": "tsc --noEmit",
-    "test": "node test/harness.mjs"
+    "test": "node test/extension.test.mjs"
   },
   "devDependencies": {
     "axios": "^1.7.9",
